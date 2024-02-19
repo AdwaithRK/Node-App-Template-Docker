@@ -1,0 +1,27 @@
+{
+  "name": "node-project-init",
+  "version": "1.0.2",
+  "description": "A comprehensive MVC-based template for Node.js applications, utilizing Express.js and Sequelize with MySQL as a dependency for efficient web application development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mvc",
+    "expressjs",
+    "sequelize",
+    "mysql",
+    "web application",
+    "template"
+  ],
+  "author": "Adwaith R Krishna",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdwaithRK/Node-App-Template"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
