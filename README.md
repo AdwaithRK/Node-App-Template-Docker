@@ -1,4 +1,4 @@
-# Node App Template
+# Node App Template With Docker
 
 A streamlined Node.js application template using MVC architecture. This template integrates Express.js for routing, Sequelize for ORM, and supports MySQL databases. Ideal for quickly bootstrapping robust web applications.
 
